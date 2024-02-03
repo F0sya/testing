@@ -1,0 +1,4 @@
+1.name, 2.height, 3.phone_number, 4.operator
+1.Чмиря Микита, 2.176, 3.0506501171, 4.Vodafone
+1.Чмиря Микита, 2.175, 3.0506501171, 4.Vodafone
+
